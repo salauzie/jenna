@@ -1,0 +1,58 @@
+header,
+footer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+	font-family: "american typewriter";
+	font-weight: bold;
+	background-color: white;
+}
+
+body {
+	font-family: 'american typewriter';
+	text-align: center;
+	background-color: #7da6ad;
+	background-image: url(http://www.transparenttextures.com/patterns/brick-wall.png);
+}
+
+.teach {
+	width: 30%;
+	vertical-align: middle; 
+	display: inline-block;
+	border: 6px solid white;
+}
+
+
+.teaching-block {
+	padding-top: 2.5%;
+}
+
+.teaching-block a {
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+
+.rage,
+.mlone {
+	margin-top: 5%;	
+}
+
+.rage a,
+.mlone a {
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+
+.rage {
+	margin-bottom: 5%;
+}
+
+.video {
+	width: 30%;
+	vertical-align: middle; 
+	display: inline-block;
+	border: 6px solid white;
+}
+
