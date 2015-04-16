@@ -56,3 +56,19 @@ body {
 	border: 6px solid white;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {
+    /** Show dropdown menu */
+    display: block;
+    }
